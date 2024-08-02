@@ -1,0 +1,11 @@
+name: dnSpy
+website_url: https://github.com/dnSpy/dnSpy
+description: .NET / Unity decompiler.
+licenses:
+  - GPL-3.0
+platforms:
+  - Windows
+tags:
+  - Rev
+source_code_url: https://github.com/dnSpy/dnSpy
+archived: false

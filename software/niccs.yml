@@ -1,0 +1,12 @@
+name: CISA National Initiative for Cybersecurity Careers and Studies
+website_url: https://niccs.cisa.gov
+description: \"NICCS is the premier online resource for cybersecurity training, education, and career information.\"
+licenses:
+  - Proprietary
+  - Freeware
+platforms:
+  - Web App
+tags:
+  - Training
+  - Employment
+archived: false

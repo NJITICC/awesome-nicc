@@ -1,0 +1,13 @@
+name: OWASP ZAP
+website_url: https://zaproxy.org
+description: For pentesting web applications. Can replay and modify requests, fuzz request values, proxy between the browser and site, etc.
+licenses:
+  - Apache-2.0
+platforms:
+  - Windows
+  - Mac
+  - Linux
+tags:
+  - Web
+source_code_url: https://github.com/zaproxy/zaproxy
+archived: false

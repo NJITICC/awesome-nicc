@@ -1,0 +1,11 @@
+name: Spectra Assure Community
+website_url: https://secure.software
+description: \"Spectra Assure Community monitors open source packages to identify malware, code tampering and indicators of software supply chain attacks.\"
+licenses:
+  - Proprietary
+  - Freemium
+platforms:
+  - Web App
+tags:
+  - Programming
+archived: false

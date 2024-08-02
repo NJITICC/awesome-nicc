@@ -1,0 +1,38 @@
+steps:
+  - name: check URLs
+    module: processors/url_check
+    module_options:
+      source_directories:
+        - software
+        - tags
+      source_files:
+        - licenses.yml
+      errors_are_fatal: True
+      exclude_regex:
+        - '^https://github.com/[\w\.\-]+/[\w\.\-]+$' # don't check URLs that will be processed by the github_metadata module
+        - '^https://retrospring.net/$' # DDoS protection page, always returns 403
+        - '^https://www.taiga.io/$' # always returns 403 Request forbidden by administrative rules
+        - '^https://docs.paperless-ngx.com/$' # DDoS protection page, always returns 403
+        - '^https://demo.paperless-ngx.com/$' # DDoS protection page, always returns 403
+        - '^https://git.dotclear.org/dev/dotclear$' # DDoS protection page, always returns 403
+        - '^https://word-mastermind.glitch.me/$' # the demo instance takes a long time to spin up, times out with the default 10s timeout
+        - '^https://getgrist.com/$' # hecat/python-requests bug? 'Received response with content-encoding: gzip,br, but failed to decode it.'
+        - '^https://www.uvdesk.com/$' # DDoS protection page, always returns 403
+        - '^https://demo.uvdesk.com/$' # DDoS protection page, always returns 403
+        - '^https://notes.orga.cat/$' # DDoS protection page, always returns 403
+        - '^https://cytu.be$' # DDoS protection page, always returns 403
+        - '^https://demo.reservo.co/$' # hecat/python-requests bug? always returns 404 but the website works in a browser
+        - '^https://crates.io/crates/vigil-server$' # hecat/python-requests bug? always returns 404 but the website works in a browser
+        - '^https://nitter.net$' # always times out from github actions but the website works in a browser
+        - '^https://demo.memories.gallery/apps/memories/$' # always returns 401
+        - '^https://tuleap.net/plugins/git/tuleap/tuleap/stable?p=tuleap%2Fstable.git&a=tree' # site takes a while to load,  times out with the default 10s timeout
+        - '^https://www.admidio.org/' # always times out from github actions but the website works in a browser
+        - '^https://demo.aimeos.org/' # always times out from github actions but the website works in a browser
+        - '^https://appflowy.io/' # Cannot get certificate but loads fine in browser and shows as secure
+        - '^https://www.openwebanalytics.com/' # Always returns 403 but loads in browser
+        - '^https://new-ux.spreecommerce.org/' # always times out from github actions but the website works in a browser
+        - '^https://www.zenphoto.org/' # always times out from github actions but the website works in a browser
+        - '^https://alextselegidis.com/try/plainpad/' # shows 200 when curling, loads fine in browser
+        - '^https://alextselegidis.com/get/plainpad/' # shows 200 when curling, loads fine in browser
+        - '^http://www.openwebanalytics.com/' # shows 200 when curling, loads fine in browser
+        - '^https://moodle.org/' # shows 200 when curling, loads fine in browser

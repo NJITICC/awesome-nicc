@@ -1,0 +1,11 @@
+name: shellscript.sh
+website_url: https://shellscript.sh
+description: Tutorials for bash scripting.
+licenses:
+  - Proprietary
+  - Freeware
+platforms:
+  - Web App
+tags:
+  - Training
+archived: false

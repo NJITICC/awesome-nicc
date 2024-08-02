@@ -1,0 +1,17 @@
+name: F00L.DE
+website_url: https://f00l.de/hacking
+description: Collection of miscellaneous tools such as vigenere cipher cracking, file analysis, etc.
+licenses:
+  - Freeware
+  - Source Given with No License
+platforms:
+  - Web App
+  - Windows
+  - Mac
+  - Linux
+tags:
+  - Crypto
+  - Networking
+  - Forensics
+  - Cracking
+archived: false

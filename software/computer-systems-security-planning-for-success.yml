@@ -1,0 +1,14 @@
+name: "Computer Systems Security: Planning For Success"
+website_url: https://web.njit.edu/~rt494/security
+description: \"The text, labs, and review questions in this book are designed as an introduction to the applied topic of computer security.\"<br><br>By Ryan Tolboom.
+licenses:
+  - CC-BY-NC-SA-4.0
+platforms:
+  - Web App
+  - Book
+tags:
+  - Training
+  - Crypto
+  - Web
+  - Networking
+archived: false

@@ -1,0 +1,13 @@
+name: ILSpy
+website_url: https://github.com/icsharpcode/ILSpy
+description: .NET / Unity decompiler.
+licenses:
+  - MIT
+platforms:
+  - Windows
+  - Mac
+  - Linux
+tags:
+  - Rev
+source_code_url: https://github.com/icsharpcode/ILSpy
+archived: false

@@ -1,0 +1,11 @@
+name: FederalPay.org
+website_url: https://federalpay.org
+description: \"We are a non-governmental information portal built by federal employees, for federal employees.\"
+licenses:
+  - Proprietary
+  - Freeware
+platforms:
+  - Web App
+tags:
+  - Employment
+archived: false

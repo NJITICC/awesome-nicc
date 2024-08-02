@@ -1,0 +1,11 @@
+name: GCA Cybersecurity Toolkit
+website_url: https://gcatoolkit.org/individuals
+description: A toolkit to help improve your personal cyber hygiene.
+licenses:
+  - Proprietary
+  - Freeware
+platforms:
+  - Web App
+tags:
+  - Training
+archived: false

@@ -1,0 +1,12 @@
+name: Google Dorking Tutorial
+website_url: https://www.simplilearn.com/tutorials/cyber-security-tutorial/google-dorking
+description: Tutorial on Google "dorking" which is the art of using search operators to find what you want.
+licenses:
+  - Proprietary
+  - Freeware
+platforms:
+  - Web App
+tags:
+  - Training
+  - OSINT
+archived: false

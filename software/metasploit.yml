@@ -1,0 +1,16 @@
+name: Metasploit
+website_url: https://metasploit.com
+description: \"The world’s most used penetration testing framework.\"
+licenses:
+  - BSD-3-Clause
+platforms:
+  - Windows
+  - Mac
+  - Linux
+tags:
+  - Pwn
+  - Exploitation
+  - Web
+  - Networking
+source_code_url: https://github.com/rapid7/metasploit-framework
+archived: false

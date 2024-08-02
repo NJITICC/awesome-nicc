@@ -1,0 +1,13 @@
+name: Nmap
+website_url: https://nmap.org
+description: Network port scanner tool.
+licenses:
+  - Nmap-PSL
+platforms:
+  - Windows
+  - Mac
+  - Linux
+tags:
+  - Networking
+source_code_url: https://github.com/nmap/nmap
+archived: false

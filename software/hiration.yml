@@ -1,0 +1,12 @@
+name: Hiration
+website_url: https://njit.hiration.com/app/resume-builder
+description: Cover letter and resume builder.
+licenses:
+  - Proprietary
+  - Freeware
+platforms:
+  - Web App
+tags:
+  - Employment
+  - NJIT Student Access
+archived: false

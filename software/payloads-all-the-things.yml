@@ -1,0 +1,15 @@
+name: Payloads All The Things
+website_url: https://swisskyrepo.github.io/PayloadsAllTheThings
+description: \"A list of useful payloads and bypasses for Web Application Security.\"
+licenses:
+  - MIT
+platforms:
+  - Web App
+tags:
+  - Training
+  - Networking
+  - Exploitation
+  - Sysadmin
+  - Web
+source_code_url: https://github.com/swisskyrepo/PayloadsAllTheThings
+archived: false

@@ -1,0 +1,11 @@
+name: QRazyBox
+website_url: https://merri.cx/qrazybox
+description: \"QR Code Analysis and Recovery Toolkit\"
+licenses:
+  - MIT
+platforms:
+  - Web App
+tags:
+  - Steg
+source_code_url: https://github.com/merricx/qrazybox
+archived: false

@@ -1,0 +1,12 @@
+name: Microsoft Security Complaince Toolkit
+website_url: https://www.microsoft.com/en-us/download/details.aspx?id=55319
+description: \"Policy Analyzer is a utility for analyzing and comparing sets of Group Policy Objects (GPOs). It can highlight when a set of Group Policies has redundant settings or internal inconsistencies, and can highlight the differences between versions or sets of Group Policies.\"
+licenses:
+  - Proprietary
+  - Freeware
+platforms:
+  - Windows
+tags:
+  - Forensics
+  - Sysadmin
+archived: false

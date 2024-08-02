@@ -1,0 +1,12 @@
+name: picoGym
+website_url: https://play.picoctf.org/practice
+description: CTF that is up indefinitely for practice.
+licenses:
+  - Proprietary
+  - Freeware
+platforms:
+  - Web App
+tags:
+  - Training
+source_code_url: https://salsa.debian.org/pkg-security-team/dirb
+archived: false

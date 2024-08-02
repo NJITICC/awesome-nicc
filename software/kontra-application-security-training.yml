@@ -1,0 +1,11 @@
+name: Kontra Application Security Training
+website_url: https://application.security
+description: Interactive application security training.
+licenses:
+  - Proprietary
+  - Freemium
+platforms:
+  - Web App
+tags:
+  - Training
+archived: false

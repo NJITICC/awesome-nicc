@@ -1,0 +1,11 @@
+name: OverTheWire
+website_url: https://overthewire.org/wargames
+description: Learn Linux basics through fun-filled games.
+licenses:
+  - Proprietary
+  - Freeware
+platforms:
+  - Web App
+tags:
+  - Training
+archived: false

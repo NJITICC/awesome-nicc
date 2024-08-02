@@ -1,0 +1,14 @@
+name: OpenStego
+website_url: https://openstego.com
+description: Stegonography application for data hiding and watermarking.
+licenses:
+  - GPL-2.0
+platforms:
+  - Windows
+  - Mac
+  - Linux
+tags:
+  - Steg
+  - Forensics
+source_code_url: https://github.com/syvaidya/openstego
+archived: false

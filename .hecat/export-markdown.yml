@@ -1,0 +1,10 @@
+steps:
+  - name: export YAML data to single-page markdown
+    module: exporters/markdown_singlepage
+    module_options:
+      source_directory: ./
+      output_directory: ./
+      output_file: README.md
+      markdown_header: markdown/header.md
+      markdown_footer: markdown/footer.md
+      back_to_top_url: "#awesome-nicc"

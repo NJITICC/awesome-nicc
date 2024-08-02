@@ -1,0 +1,11 @@
+name: Security Certification Roadmap
+website_url: https://pauljerimy.com/security-certification-roadmap
+description: A roadmap of differnet cybersecurity certifications.
+licenses:
+  - CC-BY-SA-4.0
+platforms:
+  - Web App
+tags:
+  - Training
+source_code_url: https://github.com/PaulJerimy/SecCertRoadmapHTML
+archived: false

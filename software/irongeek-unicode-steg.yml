@@ -1,0 +1,12 @@
+name: IronGeek Unicode Steg
+website_url: https://irongeek.com/i.php?page=security/unicode-steganography-homoglyph-encoder
+description: Hides text within text.
+licenses:
+  - Proprietary
+  - Freeware
+platforms:
+  - Web App
+tags:
+  - Steg
+  - Forensics
+archived: false

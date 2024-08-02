@@ -1,0 +1,11 @@
+name: Dcode.fr
+website_url: https://dcode.fr/en
+description: Many encode and decode tools for different ciphers.
+licenses:
+  - Proprietary
+  - Freeware
+platforms:
+  - Web App
+tags:
+  - Crypto
+archived: false

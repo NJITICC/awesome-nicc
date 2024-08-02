@@ -1,0 +1,11 @@
+name: JWT.io
+website_url: https://jwt.io
+description: Tool to decode and encode JSON Web Tokens.
+licenses:
+  - MIT
+platforms:
+  - Web App
+tags:
+  - Web
+source_code_url: https://github.com/jsonwebtoken/jsonwebtoken.github.io
+archived: false

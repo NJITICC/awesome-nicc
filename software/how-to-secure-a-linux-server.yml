@@ -1,0 +1,10 @@
+name: How To Secure A Linux Server
+website_url: https://github.com/imthenachoman/How-To-Secure-A-Linux-Server
+description: \"An evolving how-to guide for securing a Linux server.\"
+licenses:
+  - CC-BY-SA-4.0
+platforms: []
+tags:
+  - Training
+  - Sysadmin
+archived: false

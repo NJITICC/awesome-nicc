@@ -1,0 +1,11 @@
+name: TryHackMe
+website_url: https://tryhackme.com
+description: Hand-on cyber security training through real-world scenarios.
+licenses:
+  - Proprietary
+  - Freemium
+platforms:
+  - Web App
+tags:
+  - Training
+archived: false

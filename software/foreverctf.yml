@@ -1,0 +1,11 @@
+name: ForeverCTF
+website_url: https://forever.isss.io
+description: CTF that is up indefinitely for practice.
+licenses:
+  - Proprietary
+  - Freeware
+platforms:
+  - Web App
+tags:
+  - Training
+archived: false

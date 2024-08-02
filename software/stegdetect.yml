@@ -1,0 +1,12 @@
+name: Stegdetect
+website_url: https://web.archive.org/web/20150415220609/http://www.outguess.org/download.php
+description: Abandoned tool for detecting steganographic content in images.
+licenses:
+  - BSD-4-Clause
+platforms:
+  - Linux
+tags:
+  - Steg
+  - Forensics
+source_code_url: https://web.archive.org/web/20150415220609/http://www.outguess.org/download.php
+archived: false

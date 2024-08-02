@@ -1,0 +1,14 @@
+name: sig2n
+website_url: https://portswigger.net/web-security
+description: Python scripts to perform JWT algorithm confusion.<br><br>Usage instructions from PortSwigger [here](https://portswigger.net/web-security/jwt/algorithm-confusion#:~:text=via%20algorithm%20confusion-,Deriving%20public%20keys%20from%20existing%20tokens,-In%20cases%20where).
+licenses:
+  - GPL-3.0
+platforms:
+  - Windows
+  - Mac
+  - Linux
+tags:
+  - Web
+  - Crypto
+source_code_url: https://github.com/silentsignal/rsa_sign2n
+archived: false

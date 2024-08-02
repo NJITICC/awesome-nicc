@@ -1,0 +1,15 @@
+name: Datadog
+website_url: https://datadoghq.com
+description: Infrastructure monitoring tool.<br><br>10 servers free for 2 years via [GitHub Education Pack](https://education.github.com/pack/offers#datadog).
+licenses:
+  - Proprietary
+  - Freemium
+platforms:
+  - Web App
+  - Windows
+  - Mac
+  - Linux
+tags:
+  - Monitoring
+  - NJIT Student Access
+archived: false

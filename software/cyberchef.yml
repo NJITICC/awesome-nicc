@@ -1,0 +1,11 @@
+name: CyberChef
+website_url: https://cyberchef.org
+description: \"The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis.\"
+licenses:
+  - Apache-2.0
+platforms:
+  - Web App
+tags:
+  - Crypto
+source_code_url: https://github.com/gchq/CyberChef
+archived: false

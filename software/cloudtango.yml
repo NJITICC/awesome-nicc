@@ -1,0 +1,11 @@
+name: cloudtango
+website_url: https://www.cloudtango.net/
+description: Catalog of MSPs (managed service providers).
+licenses:
+  - Proprietary
+  - Freeware
+platforms:
+  - Web App
+tags:
+  - Employment
+archived: false

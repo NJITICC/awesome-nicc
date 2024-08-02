@@ -1,0 +1,11 @@
+name: PSBits Offline GPO Analysis
+website_url: https://github.com/gtworek/PSBits/blob/master/GPO
+description: Analyze Microsoft Group Policy files offline.
+licenses:
+  - Unlicense
+platforms:
+  - Windows
+tags:
+  - Forensics
+source_code_url: https://github.com/gtworek/PSBits/blob/master/GPO
+archived: false

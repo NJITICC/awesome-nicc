@@ -1,0 +1,10 @@
+name: Payloads All The PDFs
+website_url: https://github.com/luigigubello/PayloadsAllThePDFs
+description: \"A list of crafted malicious PDF files to test the security of PDF readers and tools.\"
+licenses:
+  - Apache-2.0
+platforms: []
+tags:
+  - Exploitation
+source_code_url: https://github.com/luigigubello/PayloadsAllThePDFs
+archived: false

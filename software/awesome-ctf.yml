@@ -1,0 +1,19 @@
+name: Awesome CTF
+website_url: https://github.com/apsdehal/awesome-ctf
+description: \"A curated list of Capture The Flag (CTF) frameworks, libraries, resources, softwares and tutorials.\"
+licenses:
+  - CC0-1.0
+platforms:
+  - Web App
+tags:
+  - Training
+  - Forensics
+  - Crypto
+  - Web
+  - Steganography
+  - OSINT
+  - Cracking
+  - Pwn
+  - Rev
+source_code_url: https://github.com/apsdehal/awesome-ctf
+archived: false

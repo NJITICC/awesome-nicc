@@ -1,0 +1,11 @@
+name: Parrot Linux
+website_url: https://parrotsec.org
+description: Another pentesting focused OS based on Kali.
+licenses:
+  - Multiple Licenses
+platforms:
+  - Linux
+tags:
+  - Operating System
+source_code_url: https://github.com/parrotsec
+archived: false

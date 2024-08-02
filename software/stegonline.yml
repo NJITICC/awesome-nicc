@@ -1,0 +1,12 @@
+name: StegOnline
+website_url: https://georgeom.net/StegOnline/upload
+description: Online Image Steganography Tool for Embedding and Extracting data through LSB techniques.
+licenses:
+  - WTFPL
+platforms:
+  - Web App
+tags:
+  - Steg
+  - Forensics
+source_code_url: https://github.com/Ge0rg3/StegOnline
+archived: false

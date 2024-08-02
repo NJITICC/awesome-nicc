@@ -1,0 +1,11 @@
+name: Clark
+website_url: https://clark.center
+description: Largest platform for building and sharing free cybersecurity curriculum.
+licenses:
+  - Proprietary
+  - Freeware
+platforms:
+  - Web App
+tags:
+  - Training
+archived: false

@@ -1,0 +1,12 @@
+name: Malcat
+website_url: https://malcat.fr
+description: \"Malcat is a feature-rich hexadecimal editor / disassembler for Windows and Linux targeted to IT-security professionals.\"
+licenses:
+  - Proprietary
+  - Freemium
+platforms:
+  - Windows
+  - Linux
+tags:
+  - Rev
+archived: false

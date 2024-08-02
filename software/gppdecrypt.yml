@@ -1,0 +1,15 @@
+name: gpp-decrypt
+website_url: https://blog.carnal0wnage.com/2012/10/group-policy-preferences-and-getting.html
+description: Ruby script used to decrypt Microsoft Group Policy preferences strings. Included in Kali by default.
+licenses:
+  - Freeware
+  - Source Given with No License
+platforms:
+  - Windows
+  - Mac
+  - Linux
+tags:
+  - Forensics
+  - Crypto
+source_code_url: https://gitlab.com/kalilinux/packages/gpp-decrypt
+archived: false

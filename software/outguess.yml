@@ -1,0 +1,12 @@
+name: OutGuess
+website_url: https://github.com/resurrecting-open-source-projects/outguess
+description: \"Outguess is a universal steganographic tool that allows the insertion of hidden information into the redundant bits of data sources.\"
+licenses:
+  - BSD-4-Clause
+platforms:
+  - Linux
+tags:
+  - Steg
+  - Forensics
+source_code_url: https://github.com/resurrecting-open-source-projects/outguess
+archived: false

@@ -1,0 +1,11 @@
+name: Codecademy Cybersecurity
+website_url: https://www.codecademy.com/catalog/subject/cybersecurity
+description: Contains multiple cybersecurity focused courses.
+licenses:
+  - Proprietary
+  - Freemium
+platforms:
+  - Web App
+tags:
+  - Training
+archived: false

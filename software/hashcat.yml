@@ -1,0 +1,13 @@
+name: Hashcat
+website_url: https://hashcat.net
+description: Password hash cracker.
+licenses:
+  - MIT
+platforms:
+  - Windows
+  - Mac
+  - Linux
+tags:
+  - Cracking
+source_code_url: https://github.com/hashcat/hashcat
+archived: false

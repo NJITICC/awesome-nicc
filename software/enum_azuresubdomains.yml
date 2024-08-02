@@ -1,0 +1,15 @@
+name: Enum_AzureSubdomains
+website_url: https://github.com/RoseSecurity/Enum_AzureSubdomains
+description: \"A Metasploit Auxiliary module for enumerating public Azure services by locating valid subdomains through various DNS queries.\"
+licenses:
+  - Freeware
+  - Source Given with No License
+platforms:
+  - Windows
+  - Mac
+  - Linux
+tags:
+  - Web
+  - Networking
+source_code_url: https://github.com/RoseSecurity/Enum_AzureSubdomains
+archived: false

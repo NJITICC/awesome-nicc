@@ -1,0 +1,13 @@
+name: learnpython.org
+website_url: https://learnpython.org
+description: Python references and tutorials.
+licenses:
+  - Proprietary
+  - Freeware
+platforms:
+  - Web App
+tags:
+  - Training
+  - Programming
+source_code_url: https://github.com/jsonwebtoken/jsonwebtoken.github.io
+archived: false

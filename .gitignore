@@ -1,6 +1,5 @@
-# Files
-*~
-.env
+/html/
+/.venv/
 
-# Directories
-env/
+# This file is generated automatically.
+/_static/custom.css

@@ -1,0 +1,13 @@
+name: OWASP WebGoat
+website_url: https://owasp.org/www-project-webgoat
+description: \"WebGoat is a deliberately insecure application that allows interested developers just like you to test vulnerabilities commonly found in Java-based applications that use common and popular open source components.\"
+licenses:
+  - GPL-2.0
+platforms:
+  - Windows
+  - Mac
+  - Linux
+tags:
+  - Web
+source_code_url: https://github.com/WebGoat/WebGoat
+archived: false

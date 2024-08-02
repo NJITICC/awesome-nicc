@@ -1,0 +1,11 @@
+name: Shodan
+website_url: https://shodan.io
+description: Search engine for IoT devices. Can search for publically accessible servers based on details such as header, geolocation, etc.
+licenses:
+  - Proprietary
+  - Freemium
+platforms:
+  - Web App
+tags:
+  - Web
+archived: false

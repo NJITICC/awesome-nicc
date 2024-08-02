@@ -1,0 +1,11 @@
+name: HackTheBox
+website_url: https://hackthebox.com
+description: Test your skills against a variety of hacking labs!
+licenses:
+  - Proprietary
+  - Freemium
+platforms:
+  - Web App
+tags:
+  - Training
+archived: false

@@ -1,0 +1,12 @@
+name: Hydra
+website_url: https://github.com/vanhauser-thc/thc-hydra
+description: Online password brute-force tool for SSH, RDP, HTTP, etc.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Mac
+  - Linux
+tags:
+  - Cracking
+source_code_url: https://github.com/vanhauser-thc/thc-hydra
+archived: false

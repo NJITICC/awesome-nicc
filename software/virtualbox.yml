@@ -1,0 +1,13 @@
+name: VirtualBox
+website_url: https://virtualbox.org
+description: Virtual machine hypervisor. Generally used to create Kali or Parrot VMs separate from your host operating system.
+licenses:
+  - GPL-3.0
+platforms:
+  - Windows
+  - Mac
+  - Linux
+tags:
+  - Operating System
+source_code_url: https://www.virtualbox.org/browser/trunk
+archived: false

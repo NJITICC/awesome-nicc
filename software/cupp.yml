@@ -1,0 +1,13 @@
+name: CUPP
+website_url: https://github.com/Mebus/cupp
+description: Common User Password Profiler<br><br>Generates password word lists based knowledge known about a user.
+licenses:
+  - GPL-3.0
+platforms:
+  - Windows
+  - Mac
+  - Linux
+tags:
+  - Cracking
+source_code_url: https://github.com/Mebus/cupp
+archived: false

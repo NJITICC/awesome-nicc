@@ -1,0 +1,18 @@
+name: pull request
+
+on:
+  pull_request:
+    branches: [ master ]
+
+concurrency:
+  group: pull-request-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  syntax-checks:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - run: make install
+      # - run: make awesome_lint TODO: Fix this for NICC>
+      - run: make export_markdown

@@ -1,0 +1,13 @@
+name: Kurose/Ross Networking Book
+website_url: https://gaia.cs.umass.edu/kurose_ross/lectures.php
+description: Material on understanding computer networks.<br><br>By Jim Kurose and Keith Ross.
+licenses:
+  - Proprietary
+  - Freeware
+platforms:
+  - Web App
+  - Book
+tags:
+  - Training
+  - Networking
+archived: false

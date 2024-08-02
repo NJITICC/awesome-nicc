@@ -1,0 +1,13 @@
+name: Snort
+website_url: https://snort.org
+description: IDS/IPS that does packet monitoring and logging based on rules.
+licenses:
+  - GPL-2.0
+platforms:
+  - Windows
+  - Linux
+tags:
+  - Networking
+  - Monitoring
+source_code_url: https://github.com/snort3/snort3
+archived: false

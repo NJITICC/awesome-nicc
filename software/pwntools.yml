@@ -1,0 +1,13 @@
+name: Pwntools
+website_url: https://github.com/Gallopsled/pwntools
+description: Pwntools is a python ctf library designed for rapid exploit development.
+licenses:
+  - Multiple Licenses
+platforms:
+  - Mac
+  - Linux
+tags:
+  - Pwn
+  - Exploitation
+source_code_url: https://github.com/Gallopsled/pwntools
+archived: false

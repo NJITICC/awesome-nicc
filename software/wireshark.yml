@@ -1,0 +1,13 @@
+name: Wireshark
+website_url: https://wireshark.org
+description: Network packet sniffer that can capture from interfaces in real time or read pcap files.
+licenses:
+  - GPL-2.0
+platforms:
+  - Windows
+  - Mac
+  - Linux
+tags:
+  - Networking
+source_code_url: https://gitlab.com/wireshark/wireshark
+archived: false

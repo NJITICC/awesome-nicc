@@ -1,0 +1,12 @@
+name: binwalk
+website_url: https://github.com/ReFirmLabs/binwalk
+description: Binwalk is a fast, easy to use tool for analyzing, reverse engineering, and extracting firmware images.
+licenses:
+  - MIT
+platforms:
+  - Mac
+  - Linux
+tags:
+  - Forensics
+source_code_url: https://github.com/ReFirmLabs/binwalk
+archived: false

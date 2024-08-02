@@ -1,0 +1,13 @@
+name: BurpSuite
+website_url: https://portswigger.net/burp
+description: For pentesting web applications. Can replay and modify requests, fuzz request values, proxy between the browser and site, etc.
+licenses:
+  - Proprietary
+  - Freemium
+platforms:
+  - Windows
+  - Mac
+  - Linux
+tags:
+  - Web
+archived: false

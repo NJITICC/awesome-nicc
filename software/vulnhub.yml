@@ -1,0 +1,9 @@
+name: VulnHub
+website_url: https://vulnhub.com
+description: Collection of vulnerable VM images.
+licenses:
+  - Multiple Licenses
+platforms: []
+tags:
+  - Training
+archived: false

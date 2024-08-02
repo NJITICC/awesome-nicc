@@ -1,0 +1,12 @@
+name: Canarytokens
+website_url: https://canarytokens.org
+description: \"Canarytokens helps track activity and actions on your network.\"<br><br>\"Canarytokens are like motion sensors for your networks, computers and clouds. You can put them in folders, on network devices and on your phones.\"
+licenses:
+  - GPL-3.0
+platforms:
+  - Web App
+tags:
+  - Networking
+  - Web
+source_code_url: https://github.com/thinkst/canarytokens
+archived: false

@@ -1,0 +1,12 @@
+name: NetBox
+website_url: https://netboxlabs.com/docs/netbox/en/stable/introduction
+description: Network engineer tool for IPAM, provisioning, routing, diagrams, etc.
+licenses:
+  - Apache-2.0
+platforms:
+  - Linux
+tags:
+  - Sysadmin
+  - Networking
+source_code_url: https://github.com/netbox-community/netbox
+archived: false

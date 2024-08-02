@@ -1,0 +1,13 @@
+name: Deepsound
+website_url: https://github.com/Jpinsoft/DeepSound
+description: Hides files within audio.
+licenses:
+  - Freeware
+  - Source Given with No License
+platforms:
+  - Windows
+tags:
+  - Steg
+  - Forensics
+source_code_url: https://github.com/Jpinsoft/DeepSound
+archived: false

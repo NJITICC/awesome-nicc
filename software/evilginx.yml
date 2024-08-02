@@ -1,0 +1,13 @@
+name: Evilginx
+website_url: https://github.com/kgretzky/evilginx2
+description: \"Evilginx is a man-in-the-middle attack framework used for phishing login credentials along with session cookies, which in turn allows to bypass 2-factor authentication protection.\"
+licenses:
+  - BSD-3-Clause
+platforms:
+  - Windows
+  - Mac
+  - Linux
+tags:
+  - Web
+source_code_url: https://github.com/kgretzky/evilginx2
+archived: false

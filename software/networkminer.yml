@@ -1,0 +1,13 @@
+name: NetworkMiner
+website_url: https://www.netresec.com/?page=NetworkMiner
+description: NetworkMiner is an open source network forensics tool that extracts artifacts, such as files, images, emails and passwords, from captured network traffic in PCAP files.
+licenses:
+  - GPL-2.0
+platforms:
+  - Windows
+  - Linux
+tags:
+  - Networking
+  - Forensics
+source_code_url: https://www.netresec.com/?page=NetworkMinerSourceCode
+archived: false

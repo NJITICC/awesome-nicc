@@ -1,0 +1,11 @@
+name: HackTricks
+website_url: https://book.hacktricks.xyz/
+description: "Collection of hacking tricks: e.g reverse shells, encoded text for web, etc."
+licenses:
+  - CC-BY-NC-4.0
+platforms:
+  - Web App
+tags:
+  - Training
+source_code_url: https://github.com/HackTricks-wiki/hacktricks
+archived: false

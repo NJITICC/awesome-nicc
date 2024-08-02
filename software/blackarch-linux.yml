@@ -1,0 +1,11 @@
+name: BlackArch Linux
+website_url: https://blackarch.org
+description: \"BlackArch Linux is an Arch Linux-based penetration testing distribution for penetration testers and security researchers.\"
+licenses:
+  - Multiple Licenses
+platforms:
+  - Linux
+tags:
+  - Operating System
+source_code_url: https://github.com/BlackArch/blackarch
+archived: false

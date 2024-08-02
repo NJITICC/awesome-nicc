@@ -1,0 +1,12 @@
+name: AC Hunter
+website_url: https://www.activecountermeasures.com/ac-hunter-community-edition
+description: Tool for network C2 monitoring.
+licenses:
+  - Proprietary
+  - Freemium
+platforms:
+  - Linux
+tags:
+  - Networking
+  - Monitoring
+archived: false

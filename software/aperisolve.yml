@@ -1,0 +1,13 @@
+name: Aperisolve
+website_url: https://aperisolve.com
+description: Steganography analysis for multiple tools combined into one.
+licenses:
+  - Freeware
+  - Source Given with No License
+platforms:
+  - Web App
+tags:
+  - Steg
+  - Forensics
+source_code_url: https://github.com/Zeecka/AperiSolve
+archived: false

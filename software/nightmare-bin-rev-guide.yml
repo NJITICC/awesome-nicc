@@ -1,0 +1,13 @@
+name: Nightmare Bin/Rev Guide
+website_url: https://guyinatuxedo.github.io
+description: Nightmare is an intro to binary exploitation / reverse engineering course based around ctf challenges.
+licenses:
+  - Freeware
+  - Source Given with No License
+platforms:
+  - Web App
+tags:
+  - Training
+  - Rev
+source_code_url: https://github.com/guyinatuxedo/nightmare
+archived: false

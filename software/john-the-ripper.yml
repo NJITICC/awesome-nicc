@@ -1,0 +1,12 @@
+name: John the Ripper
+website_url: https://www.openwall.com/john
+description: Password hash cracker.
+licenses:
+  - GPL-2.0
+platforms:
+  - Mac
+  - Linux
+tags:
+  - Cracking
+source_code_url: https://github.com/openwall/john
+archived: false

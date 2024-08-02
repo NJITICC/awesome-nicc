@@ -1,0 +1,13 @@
+name: Suricata
+website_url: https://suricata.io
+description: IDS/IPS that does packet monitoring and logging based on rules. Similar to Snort but multithreaded.
+licenses:
+  - GPL-2.0
+platforms:
+  - Windows
+  - Linux
+tags:
+  - Networking
+  - Monitoring
+source_code_url: https://github.com/OISF/suricata
+archived: false

@@ -1,0 +1,11 @@
+name: Kali Linux
+website_url: https://kali.org
+description: Pentesting focused OS based on Debian Linux. Many cybersecurity tools are preinstalled.
+licenses:
+  - Multiple Licenses
+platforms:
+  - Linux
+tags:
+  - Operating System
+source_code_url: https://gitlab.com/kalilinux
+archived: false

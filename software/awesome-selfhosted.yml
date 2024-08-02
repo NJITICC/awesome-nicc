@@ -1,0 +1,11 @@
+name: Awesome Selfhosted
+website_url: https://awesome-selfhosted.net
+description: \"This is a list of Free Software network services and web applications which can be hosted on your own server(s)..\"
+licenses:
+  - CC-BY-SA-3.0
+platforms:
+  - Web App
+tags:
+  - Sysadmin
+source_code_url: https://github.com/awesome-selfhosted/awesome-selfhosted
+archived: false

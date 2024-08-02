@@ -1,0 +1,11 @@
+name: PortSwigger Web Security Academy
+website_url: https://portswigger.net/web-security
+description: Free, online web security training from the creators of BurpSuite!
+licenses:
+  - Proprietary
+  - Freeware
+platforms:
+  - Web App
+tags:
+  - Training
+archived: false

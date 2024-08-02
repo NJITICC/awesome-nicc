@@ -1,0 +1,11 @@
+name: Dirb
+website_url: https://salsa.debian.org/pkg-security-team/dirb
+description: Dictionary scan of web servers.
+licenses:
+  - GPL-2.0
+platforms:
+  - Linux
+tags:
+  - Web
+source_code_url: https://salsa.debian.org/pkg-security-team/dirb
+archived: false

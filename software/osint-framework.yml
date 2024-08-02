@@ -1,0 +1,11 @@
+name: OSINT Framework
+website_url: https://osintframework.com
+description: Guide to assist in gathering information while performing OSINT.
+licenses:
+  - MIT
+platforms:
+  - Web App
+tags:
+  - OSINT
+source_code_url: https://github.com/lockfale/osint-framework
+archived: false

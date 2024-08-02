@@ -1,0 +1,11 @@
+name: HackThisSite
+website_url: https://www.hackthissite.org/
+description: \"HackThisSite.org is a free, safe and legal training ground for hackers to test and expand their ethical hacking skills with challenges, CTFs, and more.\"
+licenses:
+  - Proprietary
+  - Freeware
+platforms:
+  - Web App
+tags:
+  - Web
+archived: false

@@ -1,0 +1,7 @@
+steps:
+  - name: export YAML data to multi-page markdown site
+    module: exporters/markdown_multipage
+    module_options:
+      source_directory: ./
+      output_directory: ./html
+      include_licenses: null

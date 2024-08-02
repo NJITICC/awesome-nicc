@@ -1,0 +1,11 @@
+name: Antisyphon Training
+website_url: https://antisyphontraining.com
+description: Approachable, accessible, and affordable public and private training.
+licenses:
+  - Proprietary
+  - Freemium
+platforms:
+  - Web App
+tags:
+  - Training
+archived: false

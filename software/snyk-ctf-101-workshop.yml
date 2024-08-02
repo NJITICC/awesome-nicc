@@ -1,0 +1,11 @@
+name: Snyk CTF 101 Workshop
+website_url: https://go.snyk.io/capture-the-flag-101-workshop.html
+description: \"Check out this hands-on, virtual workshop to learn how to solve Capture the Flag (CTF) challenges, including pwn and web. After the workshop, you'll have the security skills and experience to compete in CTFs.\"
+licenses:
+  - Proprietary
+  - Freeware
+platforms:
+  - Web App
+tags:
+  - Training
+archived: false

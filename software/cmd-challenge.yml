@@ -1,0 +1,11 @@
+name: CMD Challenge
+website_url: https://cmdchallenge.com
+description: \"Test your shell knowledge by taking the CMD Challenge\"
+licenses:
+  - MIT
+platforms:
+  - Web App
+tags:
+  - Training
+source_code_url: https://gitlab.com/jarv/cmdchallenge
+archived: false

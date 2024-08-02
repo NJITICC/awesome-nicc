@@ -1,0 +1,13 @@
+name: tcpdump
+website_url: https://tcpdump.org
+description: CLI data network packet analyzer. Can dump to pcap files.
+licenses:
+  - BSD-3-Clause
+platforms:
+  - Windows
+  - Mac
+  - Linux
+tags:
+  - Networking
+source_code_url: https://github.com/the-tcpdump-group/tcpdump
+archived: false

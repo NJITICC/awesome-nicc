@@ -42,6 +42,7 @@ jobs:
       - run: make push_markdown
 
   build-html:
+    needs: build-markdown
     environment:
       name: production
       url: https://github.com/njiticc/awesome-nicc

@@ -59,14 +59,14 @@ push_markdown:
 	$(eval COMMIT_HASH=$(shell git rev-parse --short HEAD))
 	git config user.name awesome-nicc-bot && git config user.email github-actions@github.com
 	git add README.md && (git diff-index --quiet HEAD || git commit -m "[bot] build markdown from data $(COMMIT_HASH)")
-	git push -f
+	git push
 
 .PHONY: push_html # commit and push changes to the HTML site repository (amend previous commit and force-push)
 push_html:
 	$(eval COMMIT_HASH=$(shell git rev-parse --short HEAD))
 	git config user.name awesome-nicc-bot && git config user.email github-actions@github.com
 	git add -f html/* && (git diff-index --quiet HEAD || git commit --amend -m "[bot] build HTML from data $(COMMIT_HASH)")
-	git push -f
+	git push
 
 .PHONY: url_check # check URLs for dead links or other connection problems
 url_check:

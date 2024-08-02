@@ -15,7 +15,7 @@ A list of cybersecurity resources from the NJIT Information and Cybersecurity Cl
   - [Cracking](#cracking)
   - [Crypto](#crypto)
   - [Employment](#employment)
-  - [Exploitaion](#exploitaion)
+  - [Exploitation](#exploitation)
   - [Forensics](#forensics)
   - [Monitoring](#monitoring)
   - [Networking](#networking)
@@ -27,7 +27,7 @@ A list of cybersecurity resources from the NJIT Information and Cybersecurity Cl
   - [Rev](#rev)
   - [Scholarship](#scholarship)
   - [Steg](#steg)
-  - [Systems Administration](#systems-administration)
+  - [Sysadmin](#sysadmin)
   - [Training](#training)
   - [Video](#video)
   - [Web](#web)
@@ -83,12 +83,13 @@ Resources for finding jobs.
 - [Zerodium](https://zerodium.com/program.html) - Bug bounty program. `` ``
 
 
-### Exploitaion
+### Exploitation
 
 **[`^        back to top        ^`](#awesome-nicc)**
 
 General exploitation category for things that don't fit in other places.
 
+- [Payloads All The PDFs](https://github.com/luigigubello/PayloadsAllThePDFs) - \"A list of crafted malicious PDF files to test the security of PDF readers and tools.\" `Apache-2.0` ``
 
 
 ### Forensics
@@ -215,12 +216,14 @@ Anything related to [steganography](https://en.wikipedia.org/wiki/Steganography)
 - [StegOnline](https://georgeom.net/StegOnline/upload) - Online Image Steganography Tool for Embedding and Extracting data through LSB techniques. ([Source Code](https://github.com/Ge0rg3/StegOnline)) `WTFPL` `Web App`
 
 
-### Systems Administration
+### Sysadmin
 
 **[`^        back to top        ^`](#awesome-nicc)**
 
 Anything related to systems administration.
 
+- [Awesome Selfhosted](https://awesome-selfhosted.net) - \"This is a list of Free Software network services and web applications which can be hosted on your own server(s)..\" ([Source Code](https://github.com/awesome-selfhosted/awesome-selfhosted)) `CC-BY-SA-3.0` `Web App`
+- [NetBox](https://netboxlabs.com/docs/netbox/en/stable/introduction) - Network engineer tool for IPAM, provisioning, routing, diagrams, etc. ([Source Code](https://github.com/netbox-community/netbox)) `Apache-2.0` `Linux`
 
 
 ### Training
@@ -313,6 +316,7 @@ Anything related to websites and website exploitation.
 - `BSD-3-Clause` - [BSD 3-Clause "New" or "Revised"](https://spdx.org/licenses/BSD-3-Clause.html)
 - `BSD-3-Clause-Attribution` - [BSD with attribution](https://spdx.org/licenses/BSD-3-Clause-Attribution.html)
 - `BSD-4-Clause` - [BSD 4-clause "Original"](https://spdx.org/licenses/BSD-4-Clause.html)
+- `CC-BY-NC-4.0` - [Creative Commons Attribution-NonCommercial 4.0 License](https://spdx.org/licenses/CC-BY-NC-4.0.html)
 - `CC-BY-NC-SA-4.0` - [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 License](https://spdx.org/licenses/CC-BY-NC-SA-4.0.html)
 - `CC-BY-SA-3.0` - [Creative Commons Attribution-ShareAlike 3.0 License](https://spdx.org/licenses/CC-BY-SA-3.0.html)
 - `CC-BY-SA-4.0` - [Creative Commons Attribution-ShareAlike 4.0 License](https://spdx.org/licenses/CC-BY-SA-4.0.html)
@@ -324,6 +328,8 @@ Anything related to websites and website exploitation.
 - `EPL-1.0` - [Eclipse Public License, Version 1.0](https://spdx.org/licenses/EPL-1.0.html)
 - `EPL-2.0` - [Eclipse Public License, Version 2.0](https://spdx.org/licenses/EPL-2.0.html)
 - `EUPL-1.2` - [European Union Public License 1.2](https://spdx.org/licenses/EUPL-1.2.html)
+- `Freemium` - [Freemium (Free to use in some capacity but has paid upgrades)](https://wikipedia.org/wiki/Freemium)
+- `Freeware` - [Freeware (Free to use)](https://wikipedia.org/wiki/Freeware)
 - `GPL-1.0` - [GNU General Public License 1.0](https://spdx.org/licenses/GPL-1.0.html)
 - `GPL-2.0` - [GNU General Public License 2.0](https://spdx.org/licenses/GPL-2.0.html)
 - `GPL-3.0` - [GNU General Public License 3.0](https://spdx.org/licenses/GPL-3.0.html)
@@ -334,9 +340,12 @@ Anything related to websites and website exploitation.
 - `MIT` - [MIT License](https://spdx.org/licenses/MIT.html)
 - `MPL-1.1` - [Mozilla Public License Version 1.1](https://spdx.org/licenses/MPL-1.1.html)
 - `MPL-2.0` - [Mozilla Public License](https://spdx.org/licenses/MPL-2.0.html)
+- `Multiple Licenses` - [Multiple Licenses (for entries such as Linux distros which contain many programs)](https://wikipedia.org/wiki/Multi-licensing)
 - `Nmap-PSL` - [Nmap Public Source License](https://svn.nmap.org/nmap/LICENSE)
 - `OSL-3.0` - [Open Software License 3.0](https://spdx.org/licenses/OSL-3.0.html)
+- `Proprietary` - [Proprietary (closed source)](https://wikipedia.org/wiki/Proprietary_software)
 - `Sendmail` - [Sendmail License](https://spdx.org/licenses/Sendmail.html)
+- `Source Given with No License` - [Source Given with No License](https://choosealicense.com/no-permission)
 - `Ruby` - [Ruby License](https://spdx.org/licenses/Ruby.html)
 - `Unlicense` - [The Unlicense](https://spdx.org/licenses/Unlicense.html)
 - `WTFPL` - [Do What the Fuck You Want to Public License](https://spdx.org/licenses/WTFPL.html)

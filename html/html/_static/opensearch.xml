@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+  <ShortName>awesome-nicc</ShortName>
+  <Description>Search awesome-nicc</Description>
+  <InputEncoding>utf-8</InputEncoding>
+  <Url type="text/html" method="get"
+       template="https://njitcc.com/resources/search.html?q={searchTerms}"/>
+  <LongName>awesome-nicc</LongName>
+  <Image height="16" width="16" type="image/x-icon">https://njitcc.com/resources/_static/favicon.ico</Image>
+  
+</OpenSearchDescription>

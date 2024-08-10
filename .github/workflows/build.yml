@@ -22,7 +22,7 @@ jobs:
         with:
           ref: ${{ github.ref }}
           submodules: true
-          ssh-key: secrets.SSH_KEY
+          ssh-key: ${{ secrets.SSH_KEY }}
       - run: make install
       - run: make awesome_lint
       - run: make export_markdown

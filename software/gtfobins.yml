@@ -1,0 +1,12 @@
+name: GTFOBins
+website_url: https://gtfobins.github.io
+description: \"GTFOBins is a curated list of Unix binaries that can be used to bypass local security restrictions in misconfigured systems.\"
+licenses:
+  - GPL-3.0
+platforms:
+  - Web App
+tags:
+  - Exploitation
+  - Sysadmin
+source_code_url: https://github.com/GTFOBins/GTFOBins.github.io
+archived: false

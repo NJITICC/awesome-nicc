@@ -1,5 +1,5 @@
 name: picoGym
-website_url: https://play.picoctf.org/practice
+website_url: https://picoctf.org
 description: CTF that is up indefinitely for practice.
 licenses:
   - Proprietary

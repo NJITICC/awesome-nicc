@@ -1,6 +1,6 @@
-# doc: https://github.com/nodiscc/hecat/blob/master/hecat/processors/awesome_lint.py
+# doc: https://github.com/njiticc/hecat/blob/master/hecat/processors/awesome_lint.py
 steps:
-  - name: check data against awesome-selfhosted guidelines
+  - name: check data against awesome-nicc guidelines
     module: processors/awesome_lint
     module_options:
       source_directory: ./

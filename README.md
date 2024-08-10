@@ -45,6 +45,8 @@ A list of cybersecurity resources from the NJIT Information and Cybersecurity Cl
 
 Cybersecurity competitions and resources for them.
 
+- [NCAE CyberGames](https://ncaecybergames.org/) - \"NCAE Cyber Games is dedicated to inspiring college students to enter the exciting (and sometimes profitable!) realm of cyber competitions.\" `` ``
+- [Secure the Future](https://docs.google.com/document/d/1bNg38iJmRD1FPvAkjzAnQBTQYWzuKegm/edit) - Palo Alto Network's academic cybersecurity competition. `` ``
 
 
 ### Cracking
@@ -254,16 +256,14 @@ Training resources.
 - [Kurose/Ross Networking Book](https://gaia.cs.umass.edu/kurose_ross/lectures.php) - Material on understanding computer networks.<br><br>By Jim Kurose and Keith Ross. `Proprietary/Freeware` `Web App/Book`
 - [learnpython.org](https://learnpython.org) - Python references and tutorials. ([Source Code](https://github.com/jsonwebtoken/jsonwebtoken.github.io)) `Proprietary/Freeware` `Web App`
 - [Linux auditd for Threat Detection](https://izyknows.medium.com/linux-auditd-for-threat-detection-d06c8b941505) - Blog post on configuring auditd on Linux systems. `` `Web App/Book`
-- [Metasploitable](https://docs.rapid7.com/metasploit/metasploitable-2) - \"Metasploitable is an intentionally vulnerable Linux virtual machine.\" ([Source Code](https://sourceforge.net/projects/metasploitable)) `BSD/GPL-2.0` `Linux`
-- [NCAE CyberGames](https://ncaecybergames.org/) - \"NCAE Cyber Games is dedicated to inspiring college students to enter the exciting (and sometimes profitable!) realm of cyber competitions.\" `` ``
+- [Metasploitable](https://docs.rapid7.com/metasploit/metasploitable-2) - \"Metasploitable is an intentionally vulnerable Linux virtual machine.\" ([Source Code](https://sourceforge.net/projects/metasploitable)) `Multiple Licenses` `Linux`
 - [CISA National Initiative for Cybersecurity Careers and Studies](https://niccs.cisa.gov) - \"NICCS is the premier online resource for cybersecurity training, education, and career information.\" `Proprietary/Freeware` `Web App`
 - [Nightmare Bin/Rev Guide](https://guyinatuxedo.github.io) - Nightmare is an intro to binary exploitation / reverse engineering course based around ctf challenges. ([Source Code](https://github.com/guyinatuxedo/nightmare)) `Freeware/Source Given with No License` `Web App`
 - [OverTheWire](https://overthewire.org/wargames) - Learn Linux basics through fun-filled games. `Proprietary/Freeware` `Web App`
 - [Payloads All The Things](https://swisskyrepo.github.io/PayloadsAllTheThings) - \"A list of useful payloads and bypasses for Web Application Security.\" ([Source Code](https://github.com/swisskyrepo/PayloadsAllTheThings)) `MIT` `Web App`
 - [PentesterLab](https://pentesterlab.com) - Learn how to manually exploit web applications! `Proprietary/Freemium` `Web App`
-- [picoGym](https://play.picoctf.org/practice) - CTF that is up indefinitely for practice. ([Source Code](https://salsa.debian.org/pkg-security-team/dirb)) `Proprietary/Freeware` `Web App`
+- [picoGym](https://picoctf.org) - CTF that is up indefinitely for practice. ([Source Code](https://salsa.debian.org/pkg-security-team/dirb)) `Proprietary/Freeware` `Web App`
 - [PortSwigger Web Security Academy](https://portswigger.net/web-security) - Free, online web security training from the creators of BurpSuite! `Proprietary/Freeware` `Web App`
-- [Secure the Future](https://docs.google.com/document/d/1bNg38iJmRD1FPvAkjzAnQBTQYWzuKegm/edit) - Palo Alto Network's academic cybersecurity competition. `` ``
 - [Security Certification Roadmap](https://pauljerimy.com/security-certification-roadmap) - A roadmap of differnet cybersecurity certifications. ([Source Code](https://github.com/PaulJerimy/SecCertRoadmapHTML)) `CC-BY-SA-4.0` `Web App`
 - [shellscript.sh](https://shellscript.sh) - Tutorials for bash scripting. `Proprietary/Freeware` `Web App`
 - [Snyk CTF 101 Workshop](https://go.snyk.io/capture-the-flag-101-workshop.html) - \"Check out this hands-on, virtual workshop to learn how to solve Capture the Flag (CTF) challenges, including pwn and web. After the workshop, you'll have the security skills and experience to compete in CTFs.\" `Proprietary/Freeware` `Web App`

@@ -1,4 +1,4 @@
-name: build
+name: Build
 
 on:
   push:
@@ -11,10 +11,10 @@ concurrency:
 
 jobs:
   build-markdown:
-    environment:
-      name: production
-      url: https://github.com/njiticc/awesome-nicc
     runs-on: ubuntu-latest
+    environment:
+      name: markdown
+      url: https://github.com/njiticc/awesome-nicc/blob/main/README.md
     permissions:
       contents: write
     steps:
@@ -22,16 +22,15 @@ jobs:
         with:
           ref: ${{ github.ref }}
       - run: make install
-      # - run: make awesome_lint TODO: Fix this for NICC.
+      - run: make awesome_lint
       - run: make export_markdown
       - run: make push_markdown
 
   build-html:
-    needs: build-markdown
-    environment:
-      name: production
-      url: https://github.com/njiticc/awesome-nicc
     runs-on: ubuntu-latest
+    environment:
+      name: html
+      url: https://njiticc.github.io/awesome-nicc
     permissions:
       contents: read
       pages: write
@@ -41,7 +40,7 @@ jobs:
         with:
           ref: ${{ github.ref }}
       - run: make install
-      # - run: make awesome_lint TODO: Fix this for NICC.
+      - run: make awesome_lint
       - run: make export_html
       - name: Setup Pages
         uses: actions/configure-pages@v5

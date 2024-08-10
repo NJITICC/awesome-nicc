@@ -2,8 +2,7 @@ name: Metasploitable
 website_url: https://docs.rapid7.com/metasploit/metasploitable-2
 description: \"Metasploitable is an intentionally vulnerable Linux virtual machine.\"
 licenses:
-  - BSD
-  - GPL-2.0
+  - Multiple Licenses
 platforms:
   - Linux
 tags:

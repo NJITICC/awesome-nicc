@@ -36,5 +36,6 @@ tags:
 ```
 
 To ensure your issue is dealt with swiftly, please check the following (check the boxes `[x]`):
+
 - [ ] Submit one item per issue. This eases reviewing and speeds up inclusion.
 - [ ] You have searched the repository for any relevant [issues](https://github.com/njiticc/awesome-nicc/issues) or [PRs](https://github.com/njiticc/awesome-nicc/pulls), including closed ones.

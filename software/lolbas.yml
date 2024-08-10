@@ -1,0 +1,12 @@
+name: LOLBAS
+website_url: https://lolbas-project.github.io
+description: \"The goal of the LOLBAS project is to document every binary, script, and library that can be used for Living Off The Land techniques.\"
+licenses:
+  - GPL-3.0
+platforms:
+  - Web App
+tags:
+  - Exploitation
+  - Sysadmin
+source_code_url: https://github.com/LOLBAS-Project/LOLBAS
+archived: false

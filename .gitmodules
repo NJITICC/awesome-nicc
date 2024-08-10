@@ -1,3 +1,3 @@
 [submodule "hecat"]
 	path = hecat
-	url = https://github.com/NJITICC/hecat
+	url = git@github.com:NJITICC/hecat.git

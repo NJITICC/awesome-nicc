@@ -1,7 +1,6 @@
 name: Competitive Programmer’s Handbook
 website_url: https://cses.fi/book/book.pdf
 description: \"The purpose of this book is to give you a thorough introduction to competitive programming.\"<br><br>By Antti Laaksonen.
-licenses: []
 platforms:
   - Book
 tags:

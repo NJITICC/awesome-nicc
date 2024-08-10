@@ -1,7 +1,6 @@
 name: 10 Types of Application Security Testing Tools
 website_url: https://insights.sei.cmu.edu/blog/10-types-of-application-security-testing-tools-when-and-how-to-use-them
 description: List of different application security testing tools and methods.
-licenses: []
 platforms:
   - Web App
 tags:

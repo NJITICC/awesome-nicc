@@ -1,7 +1,6 @@
 name: OSINT Techniques Book
 website_url: https://inteltechniques.com/book1.html
 description: \"Resources for Uncovering Online Information\"<br><br>By Michael Bazzell.
-licenses: []
 platforms:
   - Book
 tags:

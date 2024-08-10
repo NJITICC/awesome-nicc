@@ -1,7 +1,6 @@
 name: A Graduate Course in Applied Cryptography Book
 website_url: https://toc.cryptobook.us/book.pdf
 description: \"Throughout the book we present many case studies to survey how deployed systems operate. We describe common mistakes to avoid as well as attacks on real-world systems that illustrate the importance of rigor in cryptography.\"<br><br>By Dan Boneh and Victor Shoup.
-licenses: []
 platforms:
   - Book
 tags:

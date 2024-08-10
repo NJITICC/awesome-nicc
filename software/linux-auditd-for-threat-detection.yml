@@ -1,7 +1,6 @@
 name: Linux auditd for Threat Detection
 website_url: https://izyknows.medium.com/linux-auditd-for-threat-detection-d06c8b941505
 description: Blog post on configuring auditd on Linux systems.
-licenses: []
 platforms:
   - Web App
   - Book

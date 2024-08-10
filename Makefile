@@ -8,7 +8,7 @@ install:
 	pip3 install wheel && \
 	pip3 install --force ./hecat
 
-.PHONY: awesome_lint # check data against awesome-selfhosted guidelines
+.PHONY: awesome_lint # check data against awesome-nicc guidelines
 awesome_lint:
 	source .venv/bin/activate && \
 	hecat --config .hecat/awesome-lint.yml

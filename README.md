@@ -91,6 +91,8 @@ Resources for finding jobs.
 
 General exploitation category for things that don't fit in other places.
 
+- [GTFOBins](https://gtfobins.github.io) - \"GTFOBins is a curated list of Unix binaries that can be used to bypass local security restrictions in misconfigured systems.\" ([Source Code](https://github.com/GTFOBins/GTFOBins.github.io)) `GPL-3.0` `Web App`
+- [LOLBAS](https://lolbas-project.github.io) - \"The goal of the LOLBAS project is to document every binary, script, and library that can be used for Living Off The Land techniques.\" ([Source Code](https://github.com/LOLBAS-Project/LOLBAS)) `GPL-3.0` `Web App`
 - [Payloads All The PDFs](https://github.com/luigigubello/PayloadsAllThePDFs) - \"A list of crafted malicious PDF files to test the security of PDF readers and tools.\" `Apache-2.0` ``
 
 

@@ -1,9 +1,7 @@
 name: NCAE CyberGames
 website_url: https://ncaecybergames.org/
 description: \"NCAE Cyber Games is dedicated to inspiring college students to enter the exciting (and sometimes profitable!) realm of cyber competitions.\"
-licenses: []
-platforms: []
 tags:
-  - Training
   - Competition
+  - Training
 archived: false

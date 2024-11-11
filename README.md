@@ -300,6 +300,7 @@ Anything related to websites and website exploitation.
 - [OWASP ZAP](https://zaproxy.org) - For pentesting web applications. Can replay and modify requests, fuzz request values, proxy between the browser and site, etc. ([Source Code](https://github.com/zaproxy/zaproxy)) `Apache-2.0` `Windows/Mac/Linux`
 - [Shodan](https://shodan.io) - Search engine for IoT devices. Can search for publically accessible servers based on details such as header, geolocation, etc. `Proprietary/Freemium` `Web App`
 - [sig2n](https://portswigger.net/web-security) - Python scripts to perform JWT algorithm confusion.<br><br>Usage instructions from PortSwigger [here](https://portswigger.net/web-security/jwt/algorithm-confusion#:~:text=via%20algorithm%20confusion-,Deriving%20public%20keys%20from%20existing%20tokens,-In%20cases%20where). ([Source Code](https://github.com/silentsignal/rsa_sign2n)) `GPL-3.0` `Windows/Mac/Linux`
+- [WhatWeb](https://whatweb.net) - Scans websites to recognize what software is being used to power them. ([Source Code](https://github.com/urbanadventurer/whatweb)) `GPL-2.0` `Windows/Mac/Linux/Web App`
 
 
 --------------------

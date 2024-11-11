@@ -1,0 +1,14 @@
+name: WhatWeb
+website_url: https://whatweb.net
+description: Scans websites to recognize what software is being used to power them.
+licenses:
+  - GPL-2.0
+platforms:
+  - Windows
+  - Mac
+  - Linux
+  - Web App
+tags:
+  - Web
+source_code_url: https://github.com/urbanadventurer/whatweb
+archived: false

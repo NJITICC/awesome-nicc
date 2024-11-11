@@ -105,6 +105,7 @@ Anything related to computer forensics.
 - [binwalk](https://github.com/ReFirmLabs/binwalk) - Binwalk is a fast, easy to use tool for analyzing, reverse engineering, and extracting firmware images. `MIT` `Mac/Linux`
 - [gpp-decrypt](https://blog.carnal0wnage.com/2012/10/group-policy-preferences-and-getting.html) - Ruby script used to decrypt Microsoft Group Policy preferences strings. Included in Kali by default. ([Source Code](https://gitlab.com/kalilinux/packages/gpp-decrypt)) `Freeware/Source Given with No License` `Windows/Mac/Linux`
 - [Microsoft Security Complaince Toolkit](https://www.microsoft.com/en-us/download/details.aspx?id=55319) - \"Policy Analyzer is a utility for analyzing and comparing sets of Group Policy Objects (GPOs). It can highlight when a set of Group Policies has redundant settings or internal inconsistencies, and can highlight the differences between versions or sets of Group Policies.\" `Proprietary/Freeware` `Windows`
+- [oletools](https://github.com/decalage2/oletools) - Python tools to analyze Microsoft OLE2 files (used in Office, Outlook, MSI files). `BSD-2-Clause` `Windows/Linux/Mac`
 - [PSBits Offline GPO Analysis](https://github.com/gtworek/PSBits/blob/master/GPO) - Analyze Microsoft Group Policy files offline. `Unlicense` `Windows`
 
 

@@ -1,0 +1,13 @@
+name: oletools
+website_url: https://github.com/decalage2/oletools
+description: Python tools to analyze Microsoft OLE2 files (used in Office, Outlook, MSI files).
+licenses:
+  - BSD-2-Clause
+platforms:
+  - Windows
+  - Linux
+  - Mac
+tags:
+  - Forensics
+  - Steg
+archived: false

@@ -246,6 +246,7 @@ Training resources.
 - [Codecademy Cybersecurity](https://www.codecademy.com/catalog/subject/cybersecurity) - Contains multiple cybersecurity focused courses. `Proprietary/Freemium` `Web App`
 - [Competitive Programmer’s Handbook](https://cses.fi/book/book.pdf) - \"The purpose of this book is to give you a thorough introduction to competitive programming.\"<br><br>By Antti Laaksonen. `` `Book`
 - [Computer Systems Security: Planning For Success](https://web.njit.edu/~rt494/security) - \"The text, labs, and review questions in this book are designed as an introduction to the applied topic of computer security.\"<br><br>By Ryan Tolboom. `CC-BY-NC-SA-4.0` `Web App/Book`
+- [Cybersecurity Guide](https://cybersecurityguide.org) - A collection of guides on different cybersecurity career paths and certifications. `` `Web App`
 - [ForeverCTF](https://forever.isss.io) - CTF that is up indefinitely for practice. `Proprietary/Freeware` `Web App`
 - [GCA Cybersecurity Toolkit](https://gcatoolkit.org/individuals) - A toolkit to help improve your personal cyber hygiene. `Proprietary/Freeware` `Web App`
 - [Google Dorking Tutorial](https://www.simplilearn.com/tutorials/cyber-security-tutorial/google-dorking) - Tutorial on Google "dorking" which is the art of using search operators to find what you want. `Proprietary/Freeware` `Web App`

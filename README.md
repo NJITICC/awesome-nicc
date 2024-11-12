@@ -6,6 +6,8 @@ A list of cybersecurity resources from the NJIT Information and Cybersecurity Cl
 
 [HTML version](https://njiticc.com/resources), [Markdown version](https://github.com/njiticc/awesome-nicc).
 
+**[Click here to return to the NICC website.](https://njiticc.com)**
+
 --------------------
 
 ## Table of contents

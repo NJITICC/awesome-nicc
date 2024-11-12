@@ -18,7 +18,7 @@ html_logo = '../_static/logo.png'
 html_css_files = ['custom.css']
 extensions = ['myst_parser', 'sphinx_design']
 source_suffix = ['.md']
-templates_path = ['_templates']
+templates_path = ['../_templates']
 exclude_patterns = []
 html_static_path = [
     '../_static',
@@ -35,7 +35,6 @@ myst_html_meta = {
 # theme configuration (https://pradyunsg.me/furo/customisation/)
 html_theme_options = {
     "top_of_page_button": None,
-    # "announcement": "Example announcement!"
     "source_repository": "https://github.com/njiticc/awesome-nicc",
     "source_branch": "master",
     "footer_icons": [

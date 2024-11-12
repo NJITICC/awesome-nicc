@@ -21,10 +21,8 @@ export_markdown:
 export_html:
 	rm -rf html/
 	mkdir html && source .venv/bin/activate && hecat --config .hecat/export-html.yml
-	sed -i 's|<a href="https://github.com/pradyunsg/furo">Furo</a>|<a href="https://github.com/nodiscc/hecat/">hecat</a>, <a href="https://www.sphinx-doc.org/">sphinx</a> and <a href="https://github.com/pradyunsg/furo">furo</a>. Content under <a href="https://github.com/njiticc/awesome-nicc/blob/main/LICENSE">CC-BY-SA 3.0</a> license. Adapted from <a href="https://github.com/awesome-selfhosted/awesome-selfhosted-data">awesome-selfhosted</a>. <a href="https://github.com/njiticc/awesome-nicc">Source code</a>.|' .venv/lib/python*/site-packages/furo/theme/furo/page.html
 	source .venv/bin/activate && sphinx-build -b html -c .hecat/ html/md/ html/html/
 	rm -rf html/html/.buildinfo html/html/objects.inv html/html/.doctrees
-	echo "# Please do not scrape this site aggressively. Source code is available at https://github.com/njiticc/awesome-nicc." >| html/html/robots.txt
 
 .PHONY: push_markdown # commit and push changes to the markdown repository
 push_markdown:

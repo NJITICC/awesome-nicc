@@ -273,6 +273,7 @@ Training resources.
 - <a href="https://pauljerimy.com/security-certification-roadmap" target="_blank">Security Certification Roadmap</a> - A roadmap of differnet cybersecurity certifications. (<a href="https://github.com/PaulJerimy/SecCertRoadmapHTML" target="_blank">Source Code</a>) `CC-BY-SA-4.0` `Web App`
 - <a href="https://shellscript.sh" target="_blank">shellscript.sh</a> - Tutorials for bash scripting. `Proprietary/Freeware` `Web App`
 - <a href="https://go.snyk.io/capture-the-flag-101-workshop.html" target="_blank">Snyk CTF 101 Workshop</a> - \"Check out this hands-on, virtual workshop to learn how to solve Capture the Flag (CTF) challenges, including pwn and web. After the workshop, you'll have the security skills and experience to compete in CTFs.\" `Proprietary/Freeware` `Web App`
+- <a href="https://www.splunk.com/en_us/training/splunk-pledge.html" target="_blank">Splunk Work+ Training</a> - 1 year of free Splunk SIEM Training for NJIT students.<br> Courses should come up as $0. If not, send and email to education@splunk.com. `Proprietary/Freemium` `Web App`
 - <a href="https://tryhackme.com" target="_blank">TryHackMe</a> - Hand-on cyber security training through real-world scenarios. `Proprietary/Freemium` `Web App`
 - <a href="https://vulnhub.com" target="_blank">VulnHub</a> - Collection of vulnerable VM images. `Multiple Licenses` ``
 

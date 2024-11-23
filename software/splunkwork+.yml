@@ -1,0 +1,12 @@
+name: Splunk Work+ Training
+website_url: https://www.splunk.com/en_us/training/splunk-pledge.html
+description: 1 year of free Splunk SIEM Training for NJIT students.<br> Courses should come up as $0. If not, send and email to education@splunk.com.
+licenses:
+  - Proprietary
+  - Freemium
+platforms:
+  - Web App
+tags:
+  - Training
+  - NJIT Student Access
+archived: false

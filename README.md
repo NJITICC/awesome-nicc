@@ -69,6 +69,7 @@ Tools to be used for username/password cracking.
 
 Anything related to cryptography.
 
+- <a href="https://cryptohack.org/" target="_blank">CryptoHack</a> - Challenges and courses involving Crypto that helps you get to know ciphers and protocols. `Freemium` `Web App`
 - <a href="https://cyberchef.org" target="_blank">CyberChef</a> - \"The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis.\" (<a href="https://github.com/gchq/CyberChef" target="_blank">Source Code</a>) `Apache-2.0` `Web App`
 - <a href="https://dcode.fr/en" target="_blank">Dcode.fr</a> - Many encode and decode tools for different ciphers. `Proprietary/Freeware` `Web App`
 - <a href="https://f00l.de/hacking" target="_blank">F00L.DE</a> - Collection of miscellaneous tools such as vigenere cipher cracking, file analysis, etc. `Freeware/Source Given with No License` `Web App/Windows/Mac/Linux`

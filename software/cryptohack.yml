@@ -1,0 +1,10 @@
+name: CryptoHack
+website_url: https://cryptohack.org/
+description: Challenges and courses involving Crypto that helps you get to know ciphers and protocols.
+licenses:
+  - Freemium
+platforms:
+  - Web App
+tags:
+  - Crypto
+archived: false

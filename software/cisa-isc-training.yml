@@ -3,9 +3,9 @@ website_url: https://ics-training.inl.gov/learn
 description: Free ICS cybersecurity training from the Idaho National Labratory and the Cybersecurity and Infrastructure Security Agency (CISA).
 licenses:
   - Proprietary
-  - training
+  - Freeware
 platforms:
   - Web App
 tags:
-  - Training
+  - training
 archived: false

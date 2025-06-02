@@ -245,6 +245,7 @@ Training resources.
 - <a href="https://antisyphontraining.com" target="_blank">Antisyphon Training</a> - Approachable, accessible, and affordable public and private training. `Proprietary/Freemium` `Web App`
 - <a href="https://github.com/apsdehal/awesome-ctf" target="_blank">Awesome CTF</a> - \"A curated list of Capture The Flag (CTF) frameworks, libraries, resources, softwares and tutorials.\" `CC0-1.0` `Web App`
 - <a href="https://blackhillsinfosec.com/projects/backdoorsandbreaches" target="_blank">Backdoors & Breaches</a> - Incident response card game. Can buy card deck or play online. `` `Web App`
+- <a href="https://ics-training.inl.gov/learn" target="_blank">CISA ISC Training</a> - Free ICS cybersecurity training from the Idaho National Labratory and the Cybersecurity and Infrastructure Security Agency (CISA). `Proprietary/Freeware` `Web App`
 - <a href="https://clark.center" target="_blank">Clark</a> - Largest platform for building and sharing free cybersecurity curriculum. `Proprietary/Freeware` `Web App`
 - <a href="https://cmdchallenge.com" target="_blank">CMD Challenge</a> - \"Test your shell knowledge by taking the CMD Challenge\" (<a href="https://gitlab.com/jarv/cmdchallenge" target="_blank">Source Code</a>) `MIT` `Web App`
 - <a href="https://www.codecademy.com/catalog/subject/cybersecurity" target="_blank">Codecademy Cybersecurity</a> - Contains multiple cybersecurity focused courses. `Proprietary/Freemium` `Web App`
